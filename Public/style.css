@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(245, 226, 119);
+  color: purple;
+  font-family: fantasy;
+  font-size: larger;
+
+}
+
+button {
+  border-color: purple;
+  background-color: purple;
+  border-radius: 12px;
+  opacity: 0.9;
+  font-family: fantasy;
+  color:rgb(245, 226, 119);
+  margin-left: 25px;
+  justify-content: space-evenly;
+}
+
+button:hover {
+  border-color: black;
+  background-color: black;
+  color: orange;
+}
+
+.complete {
+  text-decoration: line-through;
+  color: teal;
+}
